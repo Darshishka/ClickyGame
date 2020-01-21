@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "card": "Vulpix",
+        "image": "https://cdn.bulbagarden.net/upload/thumb/6/60/037Vulpix.png/1200px-037Vulpix.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "card": "Ninetales",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "card": "Growlithe",
+        "image": "https://i.ya-webdesign.com/images/growlithe-drawing-2.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "card": "Eevee",
+        "image": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c31c.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "card": "Jolteon",
+        "image": "https://www.serebii.net/swordshield/pokemon/135.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "card": "Flareon",
+        "image": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c31d.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "card": "Epseon",
+        "image": "https://cdn.bulbagarden.net/upload/thumb/a/a7/196Espeon.png/250px-196Espeon.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "card": "Umbreon",
+        "image": "https://i.ya-webdesign.com/images/transparent-umbreon-dark-pokemon-4.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "card": "Purrloin",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/509.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "card": "Glameow",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/431.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "card": "Persian",
+        "image": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c324.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "card": "Skitty",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png",
+        "clicked": false
+    }
+]
